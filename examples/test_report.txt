@@ -1,0 +1,5 @@
+PYTEST_DISABLE_PLUGIN_AUTOLOAD=1; pytest.main(["-q","tests","--basetemp=.venv/test-runs/release"])
+...........                                                              [100%]
+11 passed in 4.60s
+
+Exit code: 0

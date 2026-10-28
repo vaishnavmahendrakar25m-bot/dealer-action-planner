@@ -1,0 +1,32 @@
+                          raw_index  adjusted_index  adjusted_change         status                  group
+name                                                                                                      
+Sri Venkateshwara Motors  52.143428       52.143428        11.566107         Urgent         Clear problems
+Lakshmi Auto              29.357814       29.357814         2.477714         Urgent         Clear problems
+Marina Motors             27.735079       27.735079        15.789342           High         Clear problems
+Coastal Cars              23.891670       23.891670        16.307242           High         Clear problems
+Deccan Wheels             38.125760       38.125760         3.244721       Elevated         Clear problems
+Nizam Auto                 6.590209        6.590209        -8.374401  Pattern check            Hidden risk
+Charminar Wheels           3.691844        3.691844         1.891844  Pattern check            Hidden risk
+Godavari Autos             3.620102        3.620102              NaN       Fix data               Fix data
+Mysuru Motors             19.288636       19.288636         1.978584        Routine                  Stars
+Pondy Wheels              39.298409       14.445026         0.536818        Routine  Better than they look
+Kaveri Cars               36.964613       23.700965         0.946778        Routine  Better than they look
+Hosur Road Autos          15.606481       15.606481       -11.193519        Routine  Better than they look
+Coimbatore Cars           35.524459       17.704305        -1.176936        Routine  Better than they look
+Nalgonda Motors            6.658146        6.658146         1.740726        Routine                  Stars
+Madurai Motors             7.209976        7.209976         0.834079        Routine                  Stars
+Vellore Motors             3.073957        3.073957        -1.707065        Routine                  Stars
+Secunderabad Auto Hub      6.093893        6.093893         2.039497        Routine                  Stars
+Lalbagh Auto               4.062726        4.062726        -1.179073        Routine                  Stars
+Malnad Motors             11.123963       11.123963         6.025039        Routine           Room to grow
+Trichy Wheels              6.460760        6.460760         1.631276        Routine                  Stars
+Belagavi Cars              4.240633        4.240633         1.228129        Routine                  Stars
+Tumakuru Wheels            3.819063        3.819063        -0.319735        Routine                  Stars
+Warangal Wheels            6.824655        6.824655         1.018719        Routine                  Stars
+Mangaluru Auto             5.167681        5.167681         1.107874        Routine                  Stars
+Kanchi Autos               5.888207        5.888207         2.046663        Routine                  Stars
+Hubballi Motors            4.153065        4.153065        -0.693709        Routine                  Stars
+Karimnagar Cars            9.029082        9.029082         4.708535        Routine                  Stars
+Salem Autos                4.349928        4.349928        -0.377652        Routine                  Stars
+Indiranagar Cars           2.734265        2.734265        -1.281263        Routine                  Stars
+Banjara Motors             4.052402        4.052402        -0.820538        Routine                  Stars

@@ -1,0 +1,7 @@
+PASS Dealer A: 56.9
+PASS Transfer: 14795 6795 24.3
+Week24 needs action: 8 Doing well: 22
+PASS Godavari: incomplete, no reweighting
+PASS UI wording literal scan
+PASS submission files: 11
+DEFERRED: CSV load UI, deployment, extended settings, full digest accounting

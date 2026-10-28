@@ -1,0 +1,31 @@
+dealer_id,name,region,market_type,manager,outlet_open_week,base_retail,avg_cost,avg_price,market_share_base,sim_label
+D01,Sri Venkateshwara Motors,Hyderabad,Metro,Hyderabad manager,-52,36.0,1000000.0,1100000.0,0.12,stock_push
+D02,Deccan Wheels,Hyderabad,Urban,Hyderabad manager,-52,27.0,1000000.0,1100000.0,0.12,weak_conversion
+D03,Charminar Wheels,Hyderabad,Semi-urban,Hyderabad manager,-52,18.0,1000000.0,1100000.0,0.12,gaming_monthend
+D04,Nizam Auto,Hyderabad,Metro,Hyderabad manager,-52,36.0,1000000.0,1100000.0,0.12,gaming_cutoff
+D05,Godavari Autos,Hyderabad,Urban,Hyderabad manager,-52,27.0,1000000.0,1100000.0,0.12,stale_feed
+D06,Banjara Motors,Hyderabad,Semi-urban,Hyderabad manager,-52,18.0,1000000.0,1100000.0,0.12,healthy
+D07,Secunderabad Auto Hub,Hyderabad,Metro,Hyderabad manager,-52,36.0,1000000.0,1100000.0,0.12,healthy
+D08,Warangal Wheels,Hyderabad,Urban,Hyderabad manager,-52,27.0,1000000.0,1100000.0,0.12,healthy
+D09,Karimnagar Cars,Hyderabad,Semi-urban,Hyderabad manager,-52,18.0,1000000.0,1100000.0,0.12,healthy
+D10,Nalgonda Motors,Hyderabad,Metro,Hyderabad manager,-52,36.0,1000000.0,1100000.0,0.12,healthy
+D11,Malnad Motors,Bengaluru,Urban,Bengaluru manager,-52,27.0,1000000.0,1100000.0,0.045,under_penetrated
+D12,Kaveri Cars,Bengaluru,Semi-urban,Bengaluru manager,-52,18.0,1000000.0,1100000.0,0.12,market_dip
+D13,Lalbagh Auto,Bengaluru,Metro,Bengaluru manager,-52,36.0,1000000.0,1100000.0,0.12,healthy
+D14,Mysuru Motors,Bengaluru,Urban,Bengaluru manager,-52,27.0,1000000.0,1100000.0,0.12,mild_stock
+D15,Indiranagar Cars,Bengaluru,Semi-urban,Bengaluru manager,-52,18.0,1000000.0,1100000.0,0.12,healthy
+D16,Hosur Road Autos,Bengaluru,Metro,Bengaluru manager,-52,36.0,1000000.0,1100000.0,0.12,recovering
+D17,Tumakuru Wheels,Bengaluru,Urban,Bengaluru manager,-52,27.0,1000000.0,1100000.0,0.12,healthy
+D18,Hubballi Motors,Bengaluru,Semi-urban,Bengaluru manager,-52,18.0,1000000.0,1100000.0,0.12,healthy
+D19,Belagavi Cars,Bengaluru,Metro,Bengaluru manager,-52,36.0,1000000.0,1100000.0,0.12,healthy
+D20,Mangaluru Auto,Bengaluru,Urban,Bengaluru manager,-52,27.0,1000000.0,1100000.0,0.12,healthy
+D21,Lakshmi Auto,Chennai,Semi-urban,Chennai manager,-52,18.0,1000000.0,1100000.0,0.12,service_erosion
+D22,Coastal Cars,Chennai,Metro,Chennai manager,-52,36.0,1000000.0,1100000.0,0.12,coastal
+D23,Marina Motors,Chennai,Urban,Chennai manager,-52,27.0,1000000.0,1100000.0,0.12,cash_strain
+D24,Coimbatore Cars,Chennai,Semi-urban,Chennai manager,-52,18.0,1000000.0,1100000.0,0.12,disputed_invoices
+D25,Madurai Motors,Chennai,Metro,Chennai manager,-52,36.0,1000000.0,1100000.0,0.12,healthy
+D26,Trichy Wheels,Chennai,Urban,Chennai manager,-52,27.0,1000000.0,1100000.0,0.12,healthy
+D27,Salem Autos,Chennai,Semi-urban,Chennai manager,-52,18.0,1000000.0,1100000.0,0.12,healthy
+D28,Vellore Motors,Chennai,Metro,Chennai manager,-52,36.0,1000000.0,1100000.0,0.12,healthy
+D29,Pondy Wheels,Chennai,Urban,Chennai manager,6,27.0,1000000.0,1100000.0,0.12,new_outlet
+D30,Kanchi Autos,Chennai,Semi-urban,Chennai manager,-52,18.0,1000000.0,1100000.0,0.12,healthy

@@ -1,0 +1,31 @@
+                    name     index  deterioration base_tier
+Sri Venkateshwara Motors 52.143428      11.566107    Urgent
+            Pondy Wheels 39.298409       2.368878  Elevated
+           Deccan Wheels 38.125760       3.244721  Elevated
+             Kaveri Cars 36.964613       2.725209  Elevated
+         Coimbatore Cars 35.524459      -0.740907  Elevated
+            Lakshmi Auto 29.357814       2.477714    Urgent
+           Marina Motors 27.735079      15.789342      High
+            Coastal Cars 23.891670      16.307242      High
+           Mysuru Motors 19.288636       1.978584   Routine
+        Hosur Road Autos 15.606481     -11.193519   Routine
+           Malnad Motors 11.123963       6.025039   Routine
+         Karimnagar Cars  9.029082       4.708535   Routine
+          Madurai Motors  7.209976       0.834079   Routine
+         Warangal Wheels  6.824655       1.018719   Routine
+         Nalgonda Motors  6.658146       1.740726   Routine
+              Nizam Auto  6.590209      -8.374401   Routine
+           Trichy Wheels  6.460760       1.631276   Routine
+   Secunderabad Auto Hub  6.093893       2.039497   Routine
+            Kanchi Autos  5.888207       2.046663   Routine
+          Mangaluru Auto  5.167681       1.107874   Routine
+             Salem Autos  4.349928      -0.377652   Routine
+           Belagavi Cars  4.240633       1.228129   Routine
+         Hubballi Motors  4.153065      -0.693709   Routine
+            Lalbagh Auto  4.062726      -1.179073   Routine
+          Banjara Motors  4.052402      -0.820538   Routine
+         Tumakuru Wheels  3.819063      -0.319735   Routine
+        Charminar Wheels  3.691844       1.891844   Routine
+          Godavari Autos  3.620102            NaN   Routine
+          Vellore Motors  3.073957      -1.707065   Routine
+        Indiranagar Cars  2.734265      -1.281263   Routine

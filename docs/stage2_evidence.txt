@@ -1,0 +1,5 @@
+$ .venv/bin/pytest -q
+....                                                                     [100%]
+4 passed in 1.27s
+
+Exit code: 0

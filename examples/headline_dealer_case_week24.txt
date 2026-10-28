@@ -1,0 +1,5 @@
+Simulated data · Week24 · Data as of 25 October 2026
+Sales are on or above target, but 22.2% of payments 30+ days late (peers 2.6) and 37.1% of stock aged 90+ days (peers 6.8) and 2.6 complaints per 100 jobs (peers 1.5).
+Inspect: weekly:D01:24.
+Plan: Joint finance and inventory review; check transfer option · Regional finance lead + inventory manager · due 2026-11-01.
+{'action': 'Joint finance and inventory review; check transfer option', 'owner': 'Regional finance lead + inventory manager', 'effort_hrs': 3.0, 'due_days': 7, 'due_date': '2026-11-01', 'review_date': '2026-11-15', 'evidence_refs': 'weekly:D01:24', 'evidence_to_inspect': 'Sales are on or above target, but 22.2% of payments 30+ days late (peers 2.6) and 37.1% of stock aged 90+ days (peers 6.8) and 2.6 complaints per 100 jobs (peers 1.5)', 'intended_result': 'Review adjusted score, overdue %, aged stock %, and sales vs target at follow-up', 'approval_status': 'draft'}

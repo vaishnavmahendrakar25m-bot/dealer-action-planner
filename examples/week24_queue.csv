@@ -1,0 +1,9 @@
+name,region,status,group,raw_index,adjusted_index,adjusted_change,capital_at_risk,reason
+Sri Venkateshwara Motors,Hyderabad,Urgent,Clear problems,52.14342810649396,52.14342810649396,11.566106638899576,133046100.57817683,"Sales are on or above target, but 22.2% of payments 30+ days late (peers 2.6) and 37.1% of stock aged 90+ days (peers 6.8) and 2.6 complaints per 100 jobs (peers 1.5)"
+Lakshmi Auto,Chennai,Urgent,Clear problems,29.35781449324732,29.35781449324732,2.477713764236494,6010902.543800167,A severe complaint is still unresolved
+Marina Motors,Chennai,High,Clear problems,27.73507853833789,27.73507853833789,15.789342242305597,25942227.40944889,18.1% of payments 30+ days late (peers 3.1)
+Coastal Cars,Chennai,High,Clear problems,23.891670487596276,23.891670487596276,16.30724223942076,10141814.927968677,3.3 complaints per 100 jobs (peers 1.5) and 84.0% of service jobs on time (peers 94.5) and -7.9 pp vs market (peers 0.2)
+Deccan Wheels,Hyderabad,Elevated,Clear problems,38.12575951912254,38.12575951912254,3.2447206661004415,28470138.216057226,78.4% of target (peers 95.6) and -22.1 pp vs market (peers -1.4) and 8.3% of payments 30+ days late (peers 3.1)
+Nizam Auto,Hyderabad,Pattern check,Hidden risk,6.590208805395329,6.590208805395329,-8.374400504038952,15490211.761273036,Overdue falls to 30% of its mid-month level at month-end in 4 of 4 months: pattern worth checking
+Charminar Wheels,Hyderabad,Pattern check,Hidden risk,3.69184393685135,3.69184393685135,1.891843936851349,7035195.738956995,"Sold 51% of the month's units in the last week vs peers 30%, in 4 of 4 months: pattern worth checking"
+Godavari Autos,Hyderabad,Fix data,Fix data,3.6201020379680005,3.6201020379680005,,15966014.500777733,"Payment data is 35 days old, so the score is incomplete"
