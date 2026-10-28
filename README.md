@@ -2,6 +2,12 @@
 
 A local Streamlit prototype helping a regional manager prioritise weekly dealer reviews. The initial data is simulated; managers can append their own weekly CSV rows through the sidebar. Recommendations support human decisions; nothing is sent or executed automatically.
 
+## Demo video
+
+[Watch or download the recorded prototype walkthrough](https://github.com/vaishnavmahendrakar25m-bot/dealer-action-planner/raw/refs/heads/main/presentation/dealer-action-planner-demo.mp4) · MP4, 13.1 MB.
+
+The walkthrough demonstrates the Dealer Action Planner using simulated data.
+
 ## Run
 
 Python 3.11+ (built with 3.13.5).
